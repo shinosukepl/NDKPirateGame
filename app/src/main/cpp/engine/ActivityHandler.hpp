@@ -1,9 +1,9 @@
-#ifndef _PACKT_ACTIVITYHANDLER_HPP_
-#define _PACKT_ACTIVITYHANDLER_HPP_
+#pragma once
 
 #include "Types.hpp"
 
-class ActivityHandler {
+class ActivityHandler
+{
 public:
     virtual ~ActivityHandler() {};
 
@@ -26,4 +26,3 @@ public:
     virtual void onGainFocus() {};
     virtual void onLostFocus() {};
 };
-#endif
