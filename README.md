@@ -2,10 +2,10 @@ NDK Pirate Game
 ==============
 Greetings!
 
-This is very basic NDK + OpenGL ES 2.0 game project created for learn purposes.
+This is a very basic NDK + OpenGL ES 2.0 game project created for learning purposes.
 
-Current gameplay: steal gold from pirate caves and store in your box.
-(3 collected coins increase difficulty level and need to be taken from each cave)
+Current gameplay: steal gold from Pirates caves and store in your box.
+(3 collected coins increase difficulty level and have to be taken from each cave)
 
 TODO: Turn on slot feature, review source code, update assets, extend gameplay add tutorial;
 
